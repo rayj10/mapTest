@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/cbn-ess/mapTest/node_modules/react-native/ReactCommon/cxxreact/JSCTracing.cpp \
+  /Users/cbn-ess/mapTest/node_modules/react-native/ReactCommon/cxxreact/JSCTracing.h \
+  /Users/cbn-ess/mapTest/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/cbn-ess/mapTest/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h
